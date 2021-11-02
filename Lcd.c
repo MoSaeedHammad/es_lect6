@@ -31,6 +31,8 @@ sbit LCD_D5 at LATB3_bit;
 sbit LCD_D6 at LATB4_bit;
 sbit LCD_D7 at LATB5_bit;
 
+//this is new change to git repo
+
 sbit LCD_RS_Direction at TRISA3_bit;
 sbit LCD_EN_Direction at TRISB1_bit;
 sbit LCD_D4_Direction at TRISB2_bit;
